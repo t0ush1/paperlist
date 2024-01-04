@@ -6,8 +6,8 @@
 ## SIGMOD
 
 - Data-Sharing Markets: Model, Protocol, and Algorithms to Incentivize the Formation of Data-Sharing Consortia
-  - SIGMOD23（Proceedings of the ACM on Management of Data）？
-  - Raul Castro Fernandez|
+  - SIGMOD23
+  - Raul Castro Fernandez
   - 数据共享联盟，市场算法，激励
   - [note](notes/Data-Sharing_Markets%20Model,%20Protocol,%20and%20Algorithms%20to%20Incentivize%20the%20Formation%20of%20Data-Sharing%20Consortia.md)，[paper](papers/Data-Sharing%20Markets%20Model,%20Protocol,%20and%20Algorithms%20to%20Incentivize%20the%20Formation%20of%20Data-Sharing%20Consortia.pdf)
 - Incentive-Aware Decentralized Data Collaboration
@@ -28,6 +28,26 @@
   - Chaoyue Niu; Zhenzhe Zheng; Fan Wu; Xiaofeng Gao; Guihai Chen
   - 整合可信度和隐私保护
   - [note](notes/Trading%20Data%20in%20Good%20Faith_Integrating%20Truthfulness%20and%20Privacy%20Preservation%20in%20Data%20Markets.md)，[paper](papers/Trading_Data_in_Good_Faith_Integrating_Truthfulness_and_Privacy_Preservation_in_Data_Markets.pdf)
+- Two-Sided Instant Incentive Optimization under a Shared Budget in Ride-Hailing Services
+  - ICDE23
+  - Junlin Chen; Xin Liu; Weidong Liu; Hai Jiang
+  - 网约车即时激励优化，0-1 整数规划
+  - [note](notes/Two-Sided_Instant_Incentive_Optimization_under_a_Shared_Budget_in_Ride-Hailing_Services.md)，[paper](papers/Two-Sided_Instant_Incentive_Optimization_under_a_Shared_Budget_in_Ride-Hailing_Services.pdf)
+
+- Efficient Cross Dynamic Task Assignment in Spatial Crowdsourcing
+  - ICDE23
+  - Tianyue Ren; Xu Zhou; Kenli Li; Yunjun Gao; Ji Zhang; Keqin Li
+  - 交叉动态任务分配，众包，激励，位势博弈
+  - [note](notes/Efficient_Cross_Dynamic_Task_Assignment_in_Spatial_Crowdsourcing.md)，[paper](papers/Efficient_Cross_Dynamic_Task_Assignment_in_Spatial_Crowdsourcing.pdf)
+
+
+## VLDB
+
+- Host Profit Maximization: Leveraging Performance Incentives and User Flexibility
+  - VLDB23（Proceedings of the VLDB Endowment？）
+  - Xueqin Chang, Xiangyu Ke, Lu Chen, Congcong Ge, Ziheng Wei, Yunjun Gao
+  - ...
+  - [paper](papers/Host_Profit_Maximization_Leveraging_Performance_Incentives_and_User_Flexibility.pdf)
 
 ## OTHER
 
